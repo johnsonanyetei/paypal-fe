@@ -1,0 +1,6 @@
+aws
+SDVC
+linux
+scripting
+ec2
+
